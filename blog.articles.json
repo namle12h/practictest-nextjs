@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "67efe06017fc7773f7f4424a"
+  },
+  "title": "Windows 11 Features",
+  "keyword": "windows, 11",
+  "description": "Microsoft announces new features for Windows 11.",
+  "content": "Windows 11 will bring a new user interface and improved performance. The redesigned Start Menu, integrated widgets, and improved virtual desktops will enhance the overall experience. Microsoft also focuses on gaming and productivity with this update, making Windows 11 more responsive and visually appealing.",
+  "date": "2023-09-01",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67efe11a6b9cc64e250b29ec"
+  },
+  "title": "Windows 11 Features",
+  "keyword": "windows, 11",
+  "description": "Microsoft announces new features for Windows 11.",
+  "content": "Windows 11 will bring a new user interface and improved performance. The redesigned Start Menu, integrated widgets, and improved virtual desktops will enhance the overall experience. Microsoft also focuses on gaming and productivity with this update, making Windows 11 more responsive and visually appealing.",
+  "date": "2023-09-01",
+  "imageUrl": "/uploads/windows11.jpg"
+},
+{
+  "_id": {
+    "$oid": "67efe11a6b9cc64e250b29ed"
+  },
+  "title": "Apple iOS 15 Features",
+  "keyword": "apple, ios, iphone, features",
+  "description": "iOS 15 brings new features like Focus Mode and FaceTime improvements.",
+  "content": "iOS 15 includes several new features to improve user experience. Focus Mode helps users limit distractions by customizing notifications based on their current activity. FaceTime has been enhanced with SharePlay and spatial audio. The Weather app and Maps also got a major redesign to provide a more informative and visually pleasing experience.",
+  "date": "2023-09-02",
+  "imageUrl": "/uploads/ios15.jpg"
+},
+{
+  "_id": {
+    "$oid": "67efe11a6b9cc64e250b29ee"
+  },
+  "title": "New Android 12 Features",
+  "keyword": "android, 12, features",
+  "description": "Google has launched Android 12 with a fresh new design and features.",
+  "content": "Android 12 introduces a new Material You design, offering greater customization for users. It includes enhanced privacy features like a Privacy Dashboard, improved widgets, and smoother animations. The quick settings panel is redesigned, and the system also adds better performance and improved battery efficiency.",
+  "date": "2023-09-03",
+  "imageUrl": "/uploads/android12.jpg"
+},
+{
+  "_id": {
+    "$oid": "67efe11a6b9cc64e250b29ef"
+  },
+  "title": "MacBook Pro with M1 Pro Chip",
+  "keyword": "macbook, m1 pro, apple",
+  "description": "The new MacBook Pro with the M1 Pro chip is a powerhouse for professionals.",
+  "content": "The MacBook Pro with M1 Pro chip brings incredible power and efficiency for professionals. The new design includes a larger display, improved keyboard, and more ports. The M1 Pro chip significantly enhances performance, allowing for faster rendering, video editing, and app development.",
+  "date": "2023-09-04",
+  "imageUrl": "/uploads/macbookpro.jpg"
+},
+{
+  "_id": {
+    "$oid": "67efe11a6b9cc64e250b29f0"
+  },
+  "title": "Google Pixel 6 Review",
+  "keyword": "google, pixel, 6",
+  "description": "The Google Pixel 6 introduces the new Tensor chip with better AI features.",
+  "content": "The Pixel 6 features Google’s new Tensor chip, which brings enhanced AI and machine learning capabilities. The design is sleek, and the new camera system allows for improved low-light performance and computational photography. The new software features a more personalized experience, with better voice recognition and AI-powered features.",
+  "date": "2023-09-05",
+  "imageUrl": "/uploads/pixel6.jpg"
+},
+{
+  "_id": {
+    "$oid": "67efe11a6b9cc64e250b29f1"
+  },
+  "title": "Tesla Full Self-Driving Update",
+  "keyword": "tesla, full self-driving, update",
+  "description": "Tesla releases major improvements to its Full Self-Driving Beta.",
+  "content": "Tesla’s Full Self-Driving (FSD) update brings enhancements in navigating city streets, handling intersections, and recognizing traffic lights. The FSD beta continues to make significant progress, offering an improved experience for Tesla owners, though it’s still in the beta phase and requires driver supervision.",
+  "date": "2023-09-06",
+  "imageUrl": "/uploads/tesla.jpg"
+},
+{
+  "_id": {
+    "$oid": "67efe11a6b9cc64e250b29f2"
+  },
+  "title": "Apple iPhone 13 Pro Review",
+  "keyword": "iphone, 13 pro, apple",
+  "description": "Apple’s iPhone 13 Pro offers a significant upgrade with new camera features.",
+  "content": "The iPhone 13 Pro features a stunning display with ProMotion for smoother scrolling and better responsiveness. It comes with improved cameras, better battery life, and a new A15 chip, which boosts overall performance. It also supports 5G connectivity, enabling faster download speeds and better performance for apps.",
+  "date": "2023-09-07",
+  "imageUrl": "/uploads/iphone13pro.jpg"
+},
+{
+  "_id": {
+    "$oid": "67efe11a6b9cc64e250b29f3"
+  },
+  "title": "Samsung Galaxy Z Fold 3 Review",
+  "keyword": "samsung, galaxy, z fold 3",
+  "description": "The Samsung Galaxy Z Fold 3 is a game-changer with its foldable design.",
+  "content": "The Galaxy Z Fold 3 brings an innovative foldable design that combines the usability of a tablet with the portability of a smartphone. The new under-display camera and enhanced performance make it one of the most unique smartphones on the market. With its improved durability and S Pen support, the Z Fold 3 is ideal for productivity and entertainment on the go.",
+  "date": "2023-09-08",
+  "imageUrl": "/uploads/galaxyzfold3.jpg"
+},
+{
+  "_id": {
+    "$oid": "67efe11a6b9cc64e250b29f4"
+  },
+  "title": "Microsoft Surface Laptop 4 Review",
+  "keyword": "microsoft, surface, laptop 4",
+  "description": "Microsoft Surface Laptop 4 offers excellent performance with a premium design.",
+  "content": "The Surface Laptop 4 offers a stunning display, comfortable keyboard, and long battery life. With options for Intel or AMD processors, the Laptop 4 provides powerful performance for everyday tasks and light gaming. The sleek and modern design makes it a stylish choice for professionals and students alike.",
+  "date": "2023-09-09",
+  "imageUrl": "/uploads/surfacelaptop4.jpg"
+},
+{
+  "_id": {
+    "$oid": "67efe11a6b9cc64e250b29f5"
+  },
+  "title": "Sony PlayStation 5 Review",
+  "keyword": "sony, playstation, 5, gaming",
+  "description": "The PlayStation 5 offers next-gen gaming performance with faster load times.",
+  "content": "The PlayStation 5 offers cutting-edge performance with faster load times, enhanced graphics, and a new controller that enhances gameplay. The PS5 introduces ray tracing, 3D audio, and ultra-fast SSD technology, providing gamers with a next-gen experience. It supports a wide range of new and upcoming games, making it the best console for serious gamers.",
+  "date": "2023-09-10",
+  "imageUrl": "/uploads/ps5.jpg"
+}]
