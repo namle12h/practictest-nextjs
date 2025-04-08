@@ -36,16 +36,17 @@ export default function AddArticle() {
     formData.append("date", date);
 
     try {
-      const response = await axios.post("http://localhost:8080/api/v1/articles", formData, {
+      const response = await axios.post("http://localhost:8080/api/v1/posts", formData, {
         headers: {
-          "Content-Type": "multipart/form-data",
+          "Content-Type": "multipart/form-data",  // Ensure this header is set to handle files
         },
       });
 
       setMessage("Article added successfully");
-      router.push(`/blog/${response.data.data._id}`);
+      router.push(`/blog/${response.data.data._id}`);  // Redirect after success
     } catch (error) {
-      setMessage("Error adding article");
+      console.error("Error adding article:", error);
+      setMessage("Error adding article");  // Show error message if API fails
     }
   };
 

@@ -59,7 +59,7 @@ export default function BlogDetail() {
           />
         </div>
 
-        <h3 className="text-xl  text-gray-800 mb-4 font-bold">AI Applications in Industry</h3>
+        <h3 className="text-xl  text-gray-800 mb-4 ">AI Applications in Industry</h3>
         <p className="text-lg text-gray-700 ">
         AI is not limited to personal assistance; it is also revolutionizing major industries. In manufacturing, AI optimizes production processes and machine maintenance, minimizing errors and risks. Companies are leveraging AI to analyze big data, predict market trends, and make informed decisions that were once beyond human capability.
 
